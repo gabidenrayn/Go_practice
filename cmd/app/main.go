@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"gabiden_practice/pkg/powerbill"
+	"github.com/gabidenrayn/Go_practice/pkg/powerbill"
 
 	"github.com/fatih/color"
 )
