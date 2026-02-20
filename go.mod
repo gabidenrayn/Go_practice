@@ -1,4 +1,4 @@
-module gabiden_practice
+module github.com/gabidenrayn/Go_practice
 
 go 1.25.6
 
